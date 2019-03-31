@@ -6,7 +6,7 @@
 
 [DeckDeckGo] requires a recent LTS version of [NodeJS](https://nodejs.org) and npm. Make sure you've installed and/or updated Node before continuing.
 
-> Note that you will need to use npm 10 or higher
+> Note that you will need to use NodeJS 10 or higher
 
 ## Starting a new presentation
 
@@ -35,5 +35,3 @@ Cool, let's kick start a new DeckDeckGo presentation
 ```
 
 Once your presentation created, go to your new project's folder and start editing your slides and content for your talk 😉
-
-[DeckDeckGo]: https://deckdeckgo.com
